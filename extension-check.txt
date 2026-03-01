@@ -1,0 +1,3 @@
+﻿ms-python.python=INSTALLED:ms-python.python-2026.2.0-win32-x64
+ms-python.vscode-pylance=MISSING
+golang.go=MISSING
